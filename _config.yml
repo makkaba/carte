@@ -3,4 +3,4 @@ exclude: ['README.markdown']
 permalink: ':title'
 highlight: rouge
 safe: false
-title: 'Carte'
+title: 'Golden'
